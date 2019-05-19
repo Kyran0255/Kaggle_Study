@@ -4,6 +4,6 @@
 
 ### kaggle_study 누적 정리
 - 190323~190422 **CareerVilage**  
-- 190504~ **LANL Earthquake Prediction(~ing)**
-
+- 190504~ **LANL Earthquake Prediction**
+- 190512~ **Google Landmark Recognition(~ing)**
 
